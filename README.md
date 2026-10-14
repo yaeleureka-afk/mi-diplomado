@@ -1,5 +1,7 @@
 # Mi diplomado · [tu nombre]
 
+`#aprendelatam` · aprende en [#elearnlatam](https://github.com/yaeleureka-afk/elearnlatam) · construye aquí · emprende en [#emprendelatam](https://github.com/yaeleureka-afk/emprendelatam)
+
 Proyecto del **Diplomado en Transformación Digital** (Instituto Luterano Latinoamericano · TEOTECH).
 
 > 🤳 Un proyecto útil para mi comunidad, construido con ayuda de IA, comprobado y revisado por una persona.
@@ -14,6 +16,12 @@ Proyecto del **Diplomado en Transformación Digital** (Instituto Luterano Latino
 1. Toca **Use this template → Create a new repository**. Nómbralo `mi-diplomado`.
 2. Abre este `README.md`, toca el lápiz ✏️ y llena la sección de arriba.
 3. Escribe un mensaje claro y toca **Commit changes**. Ese es tu primer commit.
+
+## Mi tablero (æk)
+Trabajo igual que en el aula: **idea → tarjeta → aprobación → ejecución → evidencia → decisión**.
+- `STATE.md` es mi tablero: una fila por tarjeta.
+- `cards/` guarda cada tarjeta. Empieza con `cards/001-mi-proyecto.md`.
+- El agente solo trabaja en tarjetas `ready`, termina en `review`, y **solo yo marco `done`**.
 
 ## Mis entregas
 - [ ] **M1 · Bitácora de supervisión:** 3 encargos en `REFLEXION.md`
