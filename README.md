@@ -1,6 +1,6 @@
 # Mi diplomado · [tu nombre]
 
-`#aprendelatam` · aprende en [#elearnlatam](https://github.com/yaeleureka-afk/elearnlatam) · construye aquí · emprende en [#emprendelatam](https://github.com/yaeleureka-afk/emprendelatam)
+`#aprendelatam` · aprende en [#elearnlatam](https://github.com/LutheranInstitute/elearnlatam) · construye aquí · emprende en [#emprendelatam](https://github.com/LutheranInstitute/emprendelatam)
 
 Proyecto del **Diplomado en Transformación Digital** (Instituto Luterano Latinoamericano · TEOTECH).
 
@@ -38,4 +38,4 @@ Cuando lo publiques (Settings → Pages → rama `main`), tu sitio vive en `http
 El agente propone → yo compruebo → yo decido → mi comunidad aprende ♻️
 
 ---
-Plantilla del Diplomado Agéntico · [portal del curso](https://yaeleureka-afk.github.io/diplomado-agentico/) · CC BY-NC-SA 4.0
+Plantilla del Diplomado Agéntico · [portal del curso](https://lutheraninstitute.github.io/diplomado-agentico/) · CC BY-NC-SA 4.0
